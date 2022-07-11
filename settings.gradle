@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyComponentDemo"
 include ':app'
+include ':share'
+include ':login'
